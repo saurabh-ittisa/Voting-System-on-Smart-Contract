@@ -46,7 +46,7 @@ contract Election {
 
         // trigger voted event called
         votedEvent(_candidateId);
-        votedEvent(_candidateId);
+        //votedEvent(_admin);
 
     }
 }
